@@ -28,22 +28,22 @@ An interactive dashboard and data cleaning flow created with Tableau and Tableau
 ## 📊 Dashboard Previews
 
 ### Dashboard 1
-![Dashboard 1](.dashboard_1.jpeg)
+![Dashboard 1](dashboard_1.jpeg)
 
 ### Dashboard 2
-![Dashboard 2](.dashboard_2.jpeg)
+![Dashboard 2](dashboard_2.jpeg)
 
 ### Dashboard 3
-![Dashboard 3](.dashboard_3.jpeg)
+![Dashboard 3](dashboard_3.jpeg)
 
 ### Dashboard 4
-![Dashboard 4](.dashboard_4.jpeg)
+![Dashboard 4](dashboard_4.jpeg)
 
 ### Dashboard 5
-![Dashboard 5](.dashboard_5.jpeg)
+![Dashboard 5](dashboard_5.jpeg)
 
 ### Dashboard 6
-![Dashboard 6](.dashboard_6.jpeg)
+![Dashboard 6](dashboard_6.jpeg)
 
 ## 🧠 Key Metrics Used
 
